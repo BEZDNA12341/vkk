@@ -5,6 +5,6 @@ public class donut {
     private int paidDuration;
     private boolean canPublishFreeCopy;
     private String editMode;
-
+    private placeholder placeholder;
 
 }
